@@ -1,4 +1,5 @@
 # HTTPSSEClient
+support Godot 4.x
 
 This is an implementation of the server-sent events/event-source protocol (https://www.w3.org/TR/eventsource/) in GDScript for the Godot game engine.
 
